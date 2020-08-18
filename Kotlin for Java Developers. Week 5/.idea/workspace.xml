@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99344d04-7bbd-4667-835b-d26fdca782d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1g4dw31WFYUKVktsMp97fFddFe8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="C:/Srx Advisor" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame2048.testMoves" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.game2048.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.game2048" />
+      <option name="MAIN_CLASS_NAME" value="games.game2048.TestGame2048" />
+      <option name="METHOD_NAME" value="testMoves" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard.test01GetAndSetElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.board" />
+      <option name="MAIN_CLASS_NAME" value="games.board.TestGameBoard" />
+      <option name="METHOD_NAME" value="test01GetAndSetElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameOfFifteenHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.gameOfFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.gameOfFifteen" />
+      <option name="MAIN_CLASS_NAME" value="games.gameOfFifteen.TestGameOfFifteenHelper" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameOfFifteenInitializer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.gameOfFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.gameOfFifteen" />
+      <option name="MAIN_CLASS_NAME" value="games.gameOfFifteen.TestGameOfFifteenInitializer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameOfFifteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.gameOfFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.gameOfFifteen" />
+      <option name="MAIN_CLASS_NAME" value="games.gameOfFifteen.TestGameOfFifteen" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99344d04-7bbd-4667-835b-d26fdca782d2" name="Default Changelist" comment="" />
+      <created>1597378033507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597378033507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1597568828010">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597568828010" />
+    <state x="2671" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1597565661531">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2671" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597565661531" />
+    <state x="2735" y="285" key="AndroidProcessChooserDialog" timestamp="1597497689388">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2735" y="285" key="AndroidProcessChooserDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597497689388" />
+    <state width="547" height="466" key="DebuggerActiveHint" timestamp="1597568402771">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="547" height="466" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597568402771" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1597625283240">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597625283240" />
+    <state width="1875" height="280" key="GridCell.Tab.0.bottom" timestamp="1597569207487">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597569207487" />
+    <state width="1875" height="280" key="GridCell.Tab.0.center" timestamp="1597569207487">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597569207487" />
+    <state width="1875" height="280" key="GridCell.Tab.0.left" timestamp="1597569207487">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597569207487" />
+    <state width="1875" height="280" key="GridCell.Tab.0.right" timestamp="1597569207487">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597569207487" />
+    <state x="2447" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597568290453">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2447" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597568290453" />
+    <state x="388" y="55" width="1022" height="716" key="dock-window-1" timestamp="1597566024396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="55" width="1022" height="716" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597566024396" />
+    <state x="464" y="144" width="611" height="536" key="find.popup" timestamp="1597420773216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="144" width="611" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597420773216" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1597507494988">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597507494988" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048.kt</url>
+          <line>87</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Games/Task/src/games/game2048/Game2048.kt</url>
+          <line>99</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Games/Task/test/games/game2048/TestGame2048.kt</url>
+          <line>86</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_for_Java_Developers__Week_5$TestGameOfFifteen_testMoves.ic" NAME="TestGameOfFifteen.testMoves Coverage Results" MODIFIED="1597567689387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>games.gameOfFifteen.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kotlin_for_Java_Developers__Week_5$TestMoveValuesInRowOrColumn_testRow.ic" NAME="TestMoveValuesInRowOrColumn.testRow Coverage Results" MODIFIED="1597507431120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>games.game2048.*</FILTER>
+    </SUITE>
+  </component>
+</project>
